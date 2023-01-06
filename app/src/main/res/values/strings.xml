@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VocabularyApp</string>
+    <string name="allWords">All Words</string>
+    <string name="favorite">Favorite</string>
+    <string name="Category">Category</string>
+    <string name="list">Lists</string>
+    <string name= "hello_blank_fragment">hello</string>
+</resources>
